@@ -1,8 +1,8 @@
 ## Olá! Meu nome é Paulo Sisti 
  <div>
   <a href="https://github.com/paulosisti">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=paulosisti&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosisti&layout=compact&langs_count=16&theme=react"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=paulosisti&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosisti&layout=compact&langs_count=16&theme=react"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
