@@ -1,4 +1,8 @@
-## Olá! Meu nome é Paulo Sisti 
+## Olá! Meu nome é Paulo Sisti 👋
+
+- 🌱 Atualmente estou estudando JavaScript
+- 🎯 Minha meta é me tornar um Desenvolvedor
+
  <div>
   <a href="https://github.com/paulosisti">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=paulosisti&show_icons=true&locale=en&theme=react" alt="paulosisti"/>
