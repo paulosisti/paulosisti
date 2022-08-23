@@ -1,4 +1,4 @@
-## Olá! Meu nome é Paulo Sisti 👋
+## Olá! Meu nome é Paulo Sisti 👋🏻
 
 - 🌱 Atualmente estou estudando JavaScript
 - 🎯 Minha meta é me tornar um Desenvolvedor
