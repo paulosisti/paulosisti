@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Paulo Sisti 👋🏻
 
-- 🌱 Atualmente estou estudando JavaScript
-- 🎯 Minha meta é me tornar um Desenvolvedor
+- 🌱 Atualmente estou estudando PHP
+- 🎯 Minha meta atual é estudar para me tornar um Desenvolvedor PL
 
  <div>
   <a href="https://github.com/paulosisti">
