@@ -1,28 +1,28 @@
 ## Olá! Meu nome é Paulo Sisti 👋🏻
 
-- 🌱 Atualmente estou estudando PHP
-- 🎯 Minha meta atual é estudar para me tornar um Desenvolvedor PL
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
- <div>
-  <a href="https://github.com/paulosisti">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=paulosisti&show_icons=true&locale=en&theme=react" alt="paulosisti"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulosisti&show_icons=true&locale=en&layout=compact&theme=react" alt="paulosisti""/>
-</div>
+Atualmente atuo como desenvolvedor full-stack PHP e minha meta é evoluir como profissional e progredir cada vez mais na minha carreira!
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%;">
-    <img align="center" alt="Paulo-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"style="max-width:100%;"> 
+  <img align="center" alt="Paulo-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"style="max-width:100%;"> 
   <img align="center" alt="Paulo-NestJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"style="max-width:100%;">
   <img align="center" alt="Paulo-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="max-width:100%;">
-  <img align="center" alt="Paulo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Paulo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Paulo-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
   
   ##
- 
+
+ <p align="left">
+  💌 Caso queira entrar em contato, aqui estão minhas redes sociais: ⤵️
+</p>
 <div> 
-  <a href="https://instagram.com/paulosisti" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "https://instagram.com/paulosisti" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:paulo.sisti2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/paulosisti" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href = "https://api.whatsapp.com/send?phone=5551998082598&text=Ol%C3%A1,%20tudo%20bem?%0AEncontrei%20seu%20perfil%20no%20Github%20e%20gostaria%20de%20conversar%20com%20voc%C3%AA"><img src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/paulosisti" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
