@@ -21,7 +21,6 @@ Atualmente atuo como desenvolvedor full-stack PHP e minha meta é evoluir como p
   💌 Caso queira entrar em contato, aqui estão minhas redes sociais: ⤵️
 </p>
 <div> 
-  <a href = "https://instagram.com/paulosisti" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:paulo.sisti2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://api.whatsapp.com/send?phone=5551998082598&text=Ol%C3%A1,%20tudo%20bem?%0AEncontrei%20seu%20perfil%20no%20Github%20e%20gostaria%20de%20conversar%20com%20voc%C3%AA"><img src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/paulosisti" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
