@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Paulo Sisti 👋🏻
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="400px" width="380px" align="right">
 
 Atualmente atuo como desenvolvedor full-stack PHP e minha meta é evoluir como profissional e progredir cada vez mais na minha carreira!
 
