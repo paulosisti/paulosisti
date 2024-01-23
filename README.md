@@ -18,7 +18,7 @@ Atualmente atuo como desenvolvedor full-stack PHP e minha meta é evoluir como p
   ##
 
  <p align="left">
-  💌 Caso queira entrar em contato, aqui estão minhas redes sociais: ⤵️
+  💌 Caso queira entrar em contato, deixe sua mensagem: ⤵️
 </p>
 <div> 
   <a href = "mailto:paulo.sisti2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
