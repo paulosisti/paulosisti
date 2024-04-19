@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="400px" width="380px" align="right">
 
-Atualmente atuo como desenvolvedor full-stack PHP e minha meta é evoluir como profissional e progredir cada vez mais na minha carreira!
+Atualmente atuo como desenvolvedor Full Stack PHP e minha meta é evoluir como profissional e progredir cada vez mais na minha carreira!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
